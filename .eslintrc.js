@@ -21,8 +21,8 @@ module.exports = {
   "rules": {
     "indent": [
       "error",
-        2
-      ],
+      2
+    ],
     "linebreak-style": [
       "error",
       "unix"
@@ -31,10 +31,7 @@ module.exports = {
       "error",
       "single"
     ],
-    "semi": [
-      "error",
-      "never"
-    ],
+
     "eqeqeq": "error",
     "no-trailing-spaces": "error",
     "object-curly-spacing": [
